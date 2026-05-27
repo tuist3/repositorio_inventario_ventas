@@ -49,3 +49,4 @@ FROM productos p
 INNER JOIN categorias c 
 ON p.categoria_id=c.id
 WHERE c.nombre_categoria = "Accesorios";
+
