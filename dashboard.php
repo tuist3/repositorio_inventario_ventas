@@ -104,6 +104,8 @@ $_SESSION['rol']; ?>)</span>
 <div class="menu-modulos">
 <a href="inventario.php" class="modulo">📦Ir al Catálogo de Inventario</a>
 <!-- Este enlace lo programaremos en el siguiente bloque del año -->
+ <a href="proveedores.php" class="modulo" style="background:#8b5cf6;">🚚 Módulo de
+Proveedores</a>
 <a href="#" class="modulo" style="background:#64748b;">🛒Punto de Venta
 (Próximamente)</a>
 </div>
