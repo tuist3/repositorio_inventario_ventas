@@ -108,6 +108,8 @@ $_SESSION['rol']; ?>)</span>
 Proveedores</a>
 <a href="#" class="modulo" style="background:#64748b;">🛒Punto de Venta
 (Próximamente)</a>
+<a href="nueva_compra.php" class="modulo" style="background:#10b981;">📥 Registrar
+Ingreso de Mercadería</a>
 </div>
 </body>
 </html>
